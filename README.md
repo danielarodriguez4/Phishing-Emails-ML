@@ -14,6 +14,16 @@ This work presents a machine learning approach for detecting phishing emails usi
 git clone https://github.com/danielarodriguez4/Phishing-Emails-ML.git
 ```
 
+## Install Miniconda based on your OS
+
+### MacOS
+```bash
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+```
+### Windows
+```bash
+curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe --output .\Downloads\Miniconda3-latest-Windows-x86_64.exe
+```
 ## Access the folder
 ```bash
 cd Phishing-Emails-ML
